@@ -10,3 +10,4 @@ Unidecode==1.1.1
 pypinyin
 pypinyin_dict
 jieba
+fairseq
